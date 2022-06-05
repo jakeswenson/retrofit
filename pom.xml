@@ -64,7 +64,7 @@
     <moshi.version>1.1.0</moshi.version>
 
     <!-- Test Dependencies -->
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <assertj.version>1.7.0</assertj.version>
     <mockito.version>1.9.5</mockito.version>
     <guava.version>18.0</guava.version>
